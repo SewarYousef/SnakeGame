@@ -1,5 +1,7 @@
 # SnakeGame
-Snake Game using Arduino board, Joystick Module, MAX7219 8x8 Matrix Display Module, Buzzer, and LCD Display Module 
+Our Snake Game uses an Arduino board, Joystick Module, MAX7219 8x8 Matrix Display Module, Buzzer, and LCD Display Module.
+The algorithm for the Snake Arduino Project involves initializing components, defining structures, implementing a menu, and managing the game loop with specific logic for bounded and unbounded modes. This combination of hardware and software creates an engaging and interactive Snake game.
+
 
 ## This is The flow chart that we followed to implement our project
 <img src=https://github.com/SewarYousef/SnakeGame/blob/main/Flow_Chart.png align="center" height="650" width="550"/>
